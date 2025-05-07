@@ -9,6 +9,13 @@ https://tecnopersona.github.io/seguridad_aws/
 ----
 https://tecnopersona.github.io/bases_de_datos_aws/
 ----
+Other Clients
+https://turnerpainting.ca/
+----
+https://turnerpaintingltd.ca/
+----
+https://centralchile.cl/
+----
 <!--
 **TecnoPersona/tecnopersona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
