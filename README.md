@@ -3,7 +3,6 @@ Web Personal
 https://danielweb.cl/
 -----
 Examen de Prueba de AWS / AWS Certified Cloud Practitioner (FULL)
-
 https://aws-examen.danielweb.cl/
 -----
 Examen de 20 preguntas Redes AWS
