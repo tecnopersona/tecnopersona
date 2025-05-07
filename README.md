@@ -1,40 +1,59 @@
-## Hi there 👋
-Web Personal
-https://danielweb.cl/
------
-Examen de Prueba de AWS / AWS Certified Cloud Practitioner (FULL)
-https://aws-examen.danielweb.cl/
------
-Examen de 20 preguntas Redes AWS
-https://tecnopersona.github.io/redes_aws/
-----
-Examen de 20 preguntas Seguridad AWS
-https://tecnopersona.github.io/seguridad_aws/
-----
-Examen de 20 preguntas Bases de datos AWS
-https://tecnopersona.github.io/bases_de_datos_aws/
-----
-Other Clients - Personal Websites
-----
-https://turnerpainting.ca/
-----
-https://turnerpaintingltd.ca/
-----
-https://centralchile.cl/
-----
-<!--
-**TecnoPersona/tecnopersona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 ¡Hola! Soy Daniel
 
-Here are some ideas to get you started:
+Soy un desarrollador web con experiencia y me apasiona construir soluciones en la nube, especialmente con AWS. Me enfoco en crear experiencias digitales funcionales y accesibles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### ☁️ Recursos y Exámenes de AWS
 
+He desarrollado algunos recursos para ayudarte a prepararte para certificaciones de AWS:
 
+* **Examen de Prueba AWS Certified Cloud Practitioner (FULL):** Un examen completo para poner a prueba tus conocimientos.
+    🔗 [https://aws-examen.danielweb.cl/](https://aws-examen.danielweb.cl/)
+
+* **Examen Rápido: 20 preguntas de Redes AWS:** Enfocado en conceptos de redes en AWS.
+    🔗 [https://tecnopersona.github.io/redes_aws/](https://tecnopersona.github.io/redes_aws/)
+
+* **Examen Rápido: 20 preguntas de Seguridad AWS:** Evalúa tus conocimientos en seguridad en la nube de AWS.
+    🔗 [https://tecnopersona.github.io/seguridad_aws/](https://tecnopersona.github.io/seguridad_aws/)
+
+* **Examen Rápido: 20 preguntas de Bases de Datos AWS:** Para repasar conceptos de bases de datos en AWS.
+    🔗 [https://tecnopersona.github.io/bases_de_datos_aws/](https://tecnopersona.github.io/bases_de_datos_aws/)
+
+---
+
+### 🌐 Proyectos Web Destacados
+
+Aquí puedes encontrar algunos de los proyectos web en los que he trabajado:
+
+* **Web Personal:** Mi portafolio y centro de operaciones en línea.
+    🔗 [https://danielweb.cl/](https://danielweb.cl/)
+
+* **Central Chile:** Un proyecto web para clientes.
+    🔗 [https://centralchile.cl/](https://centralchile.cl/)
+
+* **Turner Painting & Turner Painting Ltd:** Sitios web para clientes (Canadá).
+    🔗 [https://turnerpainting.ca/](https://turnerpainting.ca/)
+    🔗 [https://turnerpaintingltd.ca/](https://turnerpaintingltd.ca/)
+
+---
+
+### 🛠️ Habilidades
+
+Menciona aquí algunas de las tecnologías o áreas en las que tienes experiencia. Esto ayuda a quienes visitan tu perfil a entender tu stack tecnológico.
+
+* **Lenguajes:** JavaScript, Python, HTML, CSS.
+* **Frameworks/Librerías:** React, Node.js.
+* **Nube:** AWS (EC2, S3, Lambda, VPC), Conocimientos generales de Cloud Computing.
+* **Otros:** Git, Docker.
+
+---
+
+### 📫 Contacto
+
+¿Interesado en colaborar o simplemente saludar? ¡Contáctame!
+
+* **Correo Electrónico:** info@danielweb.cl o danieljimenezweb@gmail.com
+* **LinkedIn:** [linkedin.com/in/danieljimenezpernia](https://www.linkedin.com/in/danieljimenezpernia/)
+* **Twitter:** [x.com/tecnopersona](https://x.com/tecnopersona)
+
+---
