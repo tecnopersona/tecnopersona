@@ -34,6 +34,9 @@ Aquí puedes encontrar algunos de los proyectos web en los que he trabajado:
 * **Turner Painting & Turner Painting Ltd:** Sitios web para clientes (Canadá).
     🔗 [https://turnerpainting.ca/](https://turnerpainting.ca/)
     🔗 [https://turnerpaintingltd.ca/](https://turnerpaintingltd.ca/)
+  
+* **Web en Angular:** Sitios web en Angular (Proyecto Practica).
+    🔗 [https://angular.danielweb.cl/](https://angular.danielweb.cl/)
 
 ---
 
@@ -41,9 +44,9 @@ Aquí puedes encontrar algunos de los proyectos web en los que he trabajado:
 
 Menciona aquí algunas de las tecnologías o áreas en las que tienes experiencia. Esto ayuda a quienes visitan tu perfil a entender tu stack tecnológico.
 
-* **Lenguajes:** JavaScript, Python, HTML, CSS.
-* **Frameworks/Librerías:** React, Node.js.
-* **Nube:** AWS (EC2, S3, Lambda, VPC), Conocimientos generales de Cloud Computing.
+* **Lenguajes:** JavaScript, Python, HTML, CSS, PHP, MYSQL.
+* **Frameworks/Librerías:** React, Node.js, Flutter.
+* **Nube:** AWS (EC2, S3, Lambda, VPC... etc), Conocimientos generales de Cloud Computing.
 * **Otros:** Git, Docker.
 
 ---
