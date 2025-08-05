@@ -1,6 +1,7 @@
 ## 👋 ¡Hola! Soy Daniel
 
 Soy un desarrollador web con experiencia y me apasiona construir soluciones en la nube, especialmente con AWS. Me enfoco en crear experiencias digitales funcionales y accesibles.
+
 ---
 ### 🐍​ Recursos y Exámenes de PYTHON
 * **Examenes de Prueba Python:** Un examen completo para poner a prueba tus conocimientos
