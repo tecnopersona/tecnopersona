@@ -1,5 +1,27 @@
+## 👋 Hi there! I'm Daniel
 
-**🛠️ Technologies Used**
+I'm an experienced web developer passionate about building cloud solutions, especially with AWS. I focus on creating functional and accessible digital experiences.
+
+---
+
+### 🚀 Featured Project: Production-Ready AWS EKS Kubernetes
+
+**Production-Ready AWS EKS Kubernetes Cluster with Terraform, Autoscaling & Monitoring**
+
+This project implements a complete Kubernetes infrastructure on AWS designed to be elastic, resilient, and fully automated using modern Infrastructure as Code (IaC) practices.
+
+🌍 **Live Demos**
+* **📊 Grafana Dashboard:** [View Live Dashboard](https://grafana.danielweb.cl/)
+* **🔥 Stress Test Application:** [Test the Application](https://php.danielweb.cl/)
+
+**🎯 Key Features**
+* **Automated Infrastructure:** Terraform-managed EKS cluster with reproducible deployments
+* **Intelligent Autoscaling:** Karpenter for node scaling + HPA for pod scaling
+* **Comprehensive Monitoring:** VictoriaMetrics stack with Grafana visualization
+* **Production Ready:** Highly available architecture with proper ingress management
+* **Cost Optimization:** OpenCost integration for cost monitoring and optimization
+
+**🏗️ Architecture Overview**
 * **Cloud:** AWS EKS, EBS, VPC, IAM
 * **Infrastructure:** Terraform, Helm, Karpenter
 * **Monitoring:** VictoriaMetrics, Grafana, kube-state-metrics
