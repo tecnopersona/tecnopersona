@@ -1,66 +1,62 @@
-## 👋 ¡Hola! Soy Daniel
 
-Soy un desarrollador web con experiencia y me apasiona construir soluciones en la nube, especialmente con AWS. Me enfoco en crear experiencias digitales funcionales y accesibles.
+**🛠️ Technologies Used**
+* **Cloud:** AWS EKS, EBS, VPC, IAM
+* **Infrastructure:** Terraform, Helm, Karpenter
+* **Monitoring:** VictoriaMetrics, Grafana, kube-state-metrics
+* **Orchestration:** Kubernetes, Metrics Server, HPA
+* **Networking:** Ingress-Nginx, AWS Load Balancer
+* **Cost Management:** OpenCost
+
+**🔗 Repository:** [View on GitHub](https://github.com/tecnopersona/Production-Ready-AWS-EKS-Kubernetes-Elastic-IaC-with-Terraform-Autoscaling-Monitoring)
 
 ---
-### 🐍​ Recursos y Exámenes de PYTHON
-* **Examenes de Prueba Python:** Un examen completo para poner a prueba tus conocimientos
-🔗 [https://tecnopersona.github.io/desafios-python/](https://tecnopersona.github.io/desafios-python/)
 
-### ☁️ Recursos y Exámenes de AWS
+### ☁️ AWS Resources and Exams
 
-He desarrollado algunos recursos para ayudarte a prepararte para certificaciones de AWS:
+I've developed resources to help prepare for AWS certifications:
 
-* **Examen de Prueba AWS Certified Cloud Practitioner (FULL):** Un examen completo para poner a prueba tus conocimientos.
+* **AWS Certified Cloud Practitioner Full Exam:** Comprehensive practice test
     🔗 [https://aws-examen.danielweb.cl/](https://aws-examen.danielweb.cl/)
 
-* **Examen Rápido: 20 preguntas de Redes AWS:** Enfocado en conceptos de redes en AWS.
+* **Quick Exams (20 questions each):**
+  * **Networking:** AWS networking concepts
     🔗 [https://tecnopersona.github.io/redes_aws/](https://tecnopersona.github.io/redes_aws/)
-
-* **Examen Rápido: 20 preguntas de Seguridad AWS:** Evalúa tus conocimientos en seguridad en la nube de AWS.
+  * **Security:** AWS security best practices
     🔗 [https://tecnopersona.github.io/seguridad_aws/](https://tecnopersona.github.io/seguridad_aws/)
-
-* **Examen Rápido: 20 preguntas de Bases de Datos AWS:** Para repasar conceptos de bases de datos en AWS.
+  * **Databases:** AWS database services
     🔗 [https://tecnopersona.github.io/bases_de_datos_aws/](https://tecnopersona.github.io/bases_de_datos_aws/)
 
----
-
-### 🌐 Proyectos Web Destacados
-
-Aquí puedes encontrar algunos de los proyectos web en los que he trabajado:
-
-* **Web Personal:** Mi portafolio y centro de operaciones en línea.
-    🔗 [https://danielweb.cl/](https://danielweb.cl/)
-
-* **Central Chile:** Un proyecto web para clientes.
-    🔗 [https://centralchile.cl/](https://centralchile.cl/)
-
-* **Turner Painting & Turner Painting Ltd:** Sitios web para clientes (Canadá).
-    🔗 [https://turnerpainting.ca/](https://turnerpainting.ca/)
-    🔗 [https://turnerpaintingltd.ca/](https://turnerpaintingltd.ca/)
-  
-* **Web en Angular:** Sitios web en Angular (Proyecto Practica).
-    🔗 [https://angular.danielweb.cl/](https://angular.danielweb.cl/)
+### 🐍 Python Resources
+* **Python Practice Exam:** Test your Python knowledge
+🔗 [https://tecnopersona.github.io/desafios-python/](https://tecnopersona.github.io/desafios-python/)
 
 ---
 
-### 🛠️ Habilidades
+### 🌐 Web Projects
 
-Menciona aquí algunas de las tecnologías o áreas en las que tienes experiencia. Esto ayuda a quienes visitan tu perfil a entender tu stack tecnológico.
-
-* **Lenguajes:** JavaScript, Python, HTML, CSS, PHP, MYSQL.
-* **Frameworks/Librerías:** React, Node.js, Flutter.
-* **Nube:** AWS (EC2, S3, Lambda, VPC... etc), Conocimientos generales de Cloud Computing.
-* **Otros:** Git, Docker.
+* **Personal Portfolio:** [https://danielweb.cl/](https://danielweb.cl/)
+* **Central Chile:** [https://centralchile.cl/](https://centralchile.cl/)
+* **Turner Painting (Canada):** 
+  * [https://turnerpainting.ca/](https://turnerpainting.ca/)
+  * [https://turnerpaintingltd.ca/](https://turnerpaintingltd.ca/)
+* **Angular Practice:** [https://angular.danielweb.cl/](https://angular.danielweb.cl/)
 
 ---
 
-### 📫 Contacto
+### 🛠️ Technical Skills
 
-¿Interesado en colaborar o simplemente saludar? ¡Contáctame!
+* **Languages:** JavaScript, Python, HTML/CSS, PHP, SQL
+* **Frameworks:** React, Node.js, Flutter
+* **Cloud & DevOps:** AWS, Terraform, Kubernetes, Docker, Git
+* **Specialties:** Cloud Architecture, Infrastructure Automation, Scalable Systems
 
-* **Correo Electrónico:** info@danielweb.cl o danieljimenezweb@gmail.com
+---
+
+### 📫 Let's Connect
+
+* **Email:** info@danielweb.cl | danieljimenezweb@gmail.com
 * **LinkedIn:** [linkedin.com/in/danieljimenezpernia](https://www.linkedin.com/in/danieljimenezpernia/)
 * **Twitter:** [x.com/tecnopersona](https://x.com/tecnopersona)
+* **GitHub:** [github.com/tecnopersona](https://github.com/tecnopersona)
 
 ---
