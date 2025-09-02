@@ -11,8 +11,7 @@ I'm an experienced web developer passionate about building cloud solutions, espe
 This project implements a complete Kubernetes infrastructure on AWS designed to be elastic, resilient, and fully automated using modern Infrastructure as Code (IaC) practices.
 
 🌍 **Live Demos**
-* **📊 Grafana Dashboard:** [View Live Dashboard](http://a6f28d2158180425ba5b05bebf33fc86-686528438.eu-west-1.elb.amazonaws.com:3000/public-dashboards/060a766092e34ad8a717fd4d2a12324c)
-* **🔥 Stress Test Application:** [Test the Application](http://aws-kubernets-victoria-nginx-prometheus-karpenter-grafana-helm.danielweb.cl/)
+[![Watch the video](thumbnail.png)]([https://youtu.be/ID_DEL_VIDEO](https://youtu.be/pW52DVsDRWo))
 
 **🎯 Key Features**
 * **Automated Infrastructure:** Terraform-managed EKS cluster with reproducible deployments
