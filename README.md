@@ -11,8 +11,10 @@ I'm an experienced web developer passionate about building cloud solutions, espe
 This project implements a complete Kubernetes infrastructure on AWS designed to be elastic, resilient, and fully automated using modern Infrastructure as Code (IaC) practices.
 
 🌍 **Live Demos**
-
-* **[![Watch the video](clusterautoscaler.jpg)](https://youtu.be/pW52DVsDRWo)
+FULL VIDEO LINK
+🔗 [https://youtu.be/ZWHXX5YVELI](https://youtu.be/ZWHXX5YVELI)
+FAST VIDEO
+[![Watch the video](clusterautoscaler.jpg)](https://youtu.be/pW52DVsDRWo)
 
 
 **🎯 Key Features**
